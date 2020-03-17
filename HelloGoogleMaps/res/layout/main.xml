@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.maps.MapView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/mapview"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:clickable="true"
+    android:apiKey="0GO9bv3OXJ5aw6gE_DNpGLeZ-1IFUSQbJKRXUKQ"
+/>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
